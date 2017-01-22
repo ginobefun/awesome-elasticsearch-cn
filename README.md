@@ -23,8 +23,9 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 
 
 ## 博文
-- [Elasticsearch 5.0](http://www.infoq.com/cn/news/2016/08/Elasticsearch-5-0-Elastic)
-
+- [Elasticsearch 5.0新版本的特性与改进](http://www.infoq.com/cn/news/2016/08/Elasticsearch-5-0-Elastic)
+- [Elasticsearch相关性打分机制学习](http://ginobefunny.com/post/elasticsearch_relevancy_score/)
+- [动手学习Elasticsearch中的Multi Match Query](http://ginobefunny.com/post/elasticsearch_multi_match_query/)
 
 
 
