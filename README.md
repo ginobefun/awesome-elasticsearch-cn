@@ -44,6 +44,10 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 - [剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道](http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03)
 - [Elasticsearch的诞生、发展与愿景](http://www.infoq.com/cn/news/2014/12/elasticsearch-birth-development)
 - [Q&A: 用Elasticsearch和Solr做相关性搜索](http://www.infoq.com/cn/articles/relevant-search-book-q-a)
-
+- [在Elasticsearch中应用机器学习排序LTR](http://www.infoq.com/cn/articles/we-are-bringing-learning-to-rank-to-elasticsearch)
+- [在 Java 应用程序中使用 Elasticsearch](https://www.ibm.com/developerworks/cn/java/j-use-elasticsearch-java-apps/)
+- [Spark Streaming + Elasticsearch构建App异常监控平台](http://tech.meituan.com/spark-streaming-es.html)
+- [如何提高ElasticSearch 索引速度](http://www.jianshu.com/p/5eeeeb4375d4)
+- [Elasticsearch前沿：ES 5.x改进详解与ES6展望](https://mp.weixin.qq.com/s/yVbZfE7oWGmnfmcFTeSV4w)
 
 
