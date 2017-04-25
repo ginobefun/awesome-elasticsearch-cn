@@ -50,4 +50,4 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 - [如何提高ElasticSearch 索引速度](http://www.jianshu.com/p/5eeeeb4375d4)
 - [Elasticsearch前沿：ES 5.x改进详解与ES6展望](https://mp.weixin.qq.com/s/yVbZfE7oWGmnfmcFTeSV4w)
 - [Elasticsearch 5.x 字段折叠的使用](http://elasticsearch.cn/article/132)
-
+- [在Elasticsearch中应用机器学习排序LTR](http://www.infoq.com/cn/articles/we-are-bringing-learning-to-rank-to-elasticsearch)  OpenSource Connections/杨振涛
