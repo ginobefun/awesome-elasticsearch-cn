@@ -19,8 +19,7 @@ Elasticsearch中文相关资料整理，包括书籍、视频、博文等。
 - [elasticsearch-analysis-smartcn](https://github.com/elastic/elasticsearch-analysis-smartcn)
 
 ## 书籍
-- [Elasticsearch: 权威指南](http://es-guide-preview.elasticsearch.cn)
-- [Elasticsearch权威指南](https://es.xiaoleilu.com/)
+
 
 ## 社区
 - [Elasticsearch中文社区](http://elasticsearch.cn/)
